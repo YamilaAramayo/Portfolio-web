@@ -16,7 +16,7 @@ Portfolio profesional desarrollado para mostrar mis habilidades, proyectos y cer
 - Contacto directo
 
 ## 🌐 Demo
-[https://TUUSUARIO.github.io/portfolio-web/](https://yamilaaramayo.github.io/Portfolio-web/)
+https://yamilaaramayo.github.io/Portfolio-web/
 
 ## 👩‍💻 Sobre mí
 Desarrolladora Full Stack enfocada en crear aplicaciones web funcionales, dinámicas y escalables.
